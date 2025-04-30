@@ -10,7 +10,7 @@
 ![image](https://github.com/user-attachments/assets/45a94f38-0ebf-4354-927f-1cb2a49dc9cd)
 
 
-## Cara runing project
+## Cara running project
 
 - composer update
 - buat databse dengan nama laravel11
@@ -18,3 +18,7 @@
 - php artisan db:seed
 - php artisan serve
 - selesai
+
+## Akun Login
+usernane: test@example.com
+password: 12345678
