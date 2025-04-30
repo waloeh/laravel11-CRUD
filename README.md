@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+![image](https://github.com/user-attachments/assets/45a94f38-0ebf-4354-927f-1cb2a49dc9cd)
+
+
 ## Cara runing project
 
 - composer update
